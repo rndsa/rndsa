@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,100:8B0000&height=180&section=header&text=rndsa&fontSize=50&fontColor=ffffff&desc=backend%20%26%20payment%20infrastructure&descSize=16&descAlignY=68" width="100%" alt="Header Banner" />
+</p>
+
 # ren `[rndsa]`
 
 > Backend engineering, payment rails, and protocol reverse engineering.
