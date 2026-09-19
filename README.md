@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rndsa/rndsa/main/assets/profile.jpg" width="480" alt="ren" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3B0505,100:8B0000&height=180&section=header&text=rndsa&fontSize=50&fontColor=ffffff&animation=twinkling&desc=systems%20architect%20%C2%B7%20reverse%20engineering%20%C2%B7%20automation&descSize=16&descAlignY=65" width="100%" alt="Header Banner" />
 </p>
 
 # ren `[rndsa]`
