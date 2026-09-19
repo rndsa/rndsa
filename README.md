@@ -1,10 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,100:8B0000&height=180&section=header&text=rndsa&fontSize=50&fontColor=ffffff&desc=backend%20and%20payment%20infrastructure&descSize=16&descAlignY=68" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3B0505,100:8B0000&height=180&section=header&text=rndsa&fontSize=50&fontColor=ffffff&animation=twinkling&desc=backend%20and%20payment%20infrastructure&descSize=16&descAlignY=65" width="100%" alt="Header Banner" />
 </p>
 
 # ren `[rndsa]`
 
-> Backend engineering, payment rails, and protocol reverse engineering.
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=16&pause=1200&color=8B0000&width=500&lines=backend+engineer;payment+infrastructure+%26+QRIS+rails;protocol+%26+api+reverse+engineering;resilient+systems+on+linux+%26+edge" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="left">
   <a href="https://instagram.com/rskl411_">
