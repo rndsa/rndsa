@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3B0505,100:8B0000&height=180&section=header&text=rndsa&fontSize=50&fontColor=ffffff&animation=twinkling&desc=backend%20and%20payment%20infrastructure&descSize=16&descAlignY=65" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3B0505,100:8B0000&height=180&section=header&text=rndsa&fontSize=50&fontColor=ffffff&animation=twinkling&desc=systems%20architect%20%C2%B7%20reverse%20engineering%20%C2%B7%20automation&descSize=16&descAlignY=65" width="100%" alt="Header Banner" />
 </p>
 
 # ren `[rndsa]`
 
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=16&pause=1200&color=8B0000&width=500&lines=backend+engineer;payment+infrastructure+%26+QRIS+rails;protocol+%26+api+reverse+engineering;resilient+systems+on+linux+%26+edge" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=16&pause=1200&color=8B0000&width=550&lines=backend+%26+systems+architect;protocol+%26+api+reverse+engineering;stealth+automation+%26+antibot+evasion;network+%26+proxy+infrastructure;telegram+bot+ecosystem+architect" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,9 +21,10 @@
 
 ### Core Focus
 
-- **Payment Infrastructure:** Dynamic QRIS allocation, hardened auth pipelines, and merchant lifecycle automation.
-- **Protocol Engineering:** Reverse engineering undocumented APIs, session mechanics, and antibot evasion.
-- **Runtime & Deployment:** High-reliability Node.js & Python services on Linux containers and Vercel Edge.
+- **Backend & Systems Architecture:** Designing resilient API gateways, middleware, token auth pipelines, and Edge caching layers.
+- **Protocol & Reverse Engineering:** Inspecting network traffic, deconstructing undocumented APIs, and analyzing private session flows.
+- **Automation & Stealth Pipelines:** Headless browser automation, antibot evasion (Cloudflare, Turnstile), and proxy routing infrastructure.
+- **Bot Ecosystems & Indie Shipping:** Building production-grade Telegram bots, webhook infrastructure, and shipping independent tools end-to-end.
 
 ---
 
